@@ -9,10 +9,10 @@ Leveraged a random forest model to predict the customer churn based on a set of 
 
 
 ## Steps
-(1) Descriptive Statistics: Assessed the data dimensions and examined the overall distribution to understand key characteristics.
-(2) Visualization:  Visualized churn rates across various customer segments, such as sales channel and consumption history, while also examining distributions for skewness and potential outliers
-(3) Feature engineering: Developed features to capture price fluctuations over different time periods which can not directly reflected by existing features, and applied techniques like one-hot encoding and transformations to address imbalances in the data
-(3) Correlation analysis: Generated a correlation matrix to explore relationships between features
+(1) Descriptive Statistics: Assessed the data dimensions and examined the overall distribution to understand key characteristics \\
+(2) Visualization:  Visualized churn rates across various customer segments, such as sales channel and consumption history, while also examining distributions for skewness and potential outliers \\
+(3) Feature engineering: Developed features to capture price fluctuations over different time periods which can not directly reflected by existing features, and applied techniques like one-hot encoding and transformations to address imbalances in the data \\
+(3) Correlation analysis: Generated a correlation matrix to explore relationships between features \\
 (4) Modeling and prediction: Built a Random Forest model using training data and evaluated its performance with a separate test dataset
 
 
